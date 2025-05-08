@@ -1,0 +1,3 @@
+C:\Users\dmic111\source\repos\Puzzle\Debug\Puzzle.exe
+C:\Users\dmic111\source\repos\Puzzle\Debug\Puzzle.pdb
+E:\repos\Puzzle\Debug\Puzzle.exe
